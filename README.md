@@ -14,6 +14,7 @@ PythonAnywhere's free limited account provides a single task, which needs its ex
   - Retrieves the task's details
   - Extends the task's expiry date
   - Retrieves the new expiry date and updates the `date` variable in the script.
+- Creates error_log.txt on the desktop if an error occurs.
 
 ## Important Note
 - Ensure that you have the necessary permissions and rights to perform these actions on PythonAnywhere.
